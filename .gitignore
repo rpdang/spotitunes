@@ -1,0 +1,6 @@
+node_modules
+/.vscode
+.eslintcache
+package-lock.json
+**apiConfig.js
+functions
